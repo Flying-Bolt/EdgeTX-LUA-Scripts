@@ -1,0 +1,16 @@
+# Kompilierte Lua Bytecode
+*.luac
+
+# Backup-Dateien
+*.lua.old
+*.lua1
+
+# Paint.NET
+*.pdn
+
+# Windows
+Thumbs.db
+Desktop.ini
+
+# Claude Code
+**/.claude/
