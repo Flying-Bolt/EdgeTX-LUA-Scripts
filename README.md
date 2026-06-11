@@ -1,3 +1,10 @@
+> [!IMPORTANT]
+> **Dieses Repository ist umgezogen und wird auf GitHub nicht mehr gepflegt.**
+> Die aktuelle Version und die weitere Entwicklung gibt es nur noch auf Codeberg:
+> **https://codeberg.org/Flying-Bolt/EdgeTX-LUA-Scripts**
+
+---
+
 # EdgeTX LUA Scripts
 EdgeTX Widgets für Horus X12S (480×272px)
 
